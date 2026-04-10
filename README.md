@@ -1,1 +1,1 @@
-# automatas
+(https://colab.research.google.com/drive/1M7Vbt5DLatSd2X33FZpMAfwFHSlzC-Xf?authuser=0#scrollTo=thf2qvNe8Clk)
